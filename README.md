@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
  : Python , CCNA.
 - 💞️ I’m looking to collaborate on 
- :For the moment i'm learning the basics :)
+ : For the moment i'm learning the basics :)
 - 📫 How to reach me 
 
 <!---
